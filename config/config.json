@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": " < YOUR LOCAL MYSQL SERVER'S USER > ",
+    "password": " < YOUR LOCAL MYSQL SERVER'S PASSWORD > ",
+    "database": "practicedb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
